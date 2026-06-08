@@ -6,6 +6,7 @@ I’m a second-year AI & Data Science student
 
 I like building things that involve:
 machine learning, web development, and occasionally my own suffering (DSA)
+But truly I love building silly yet fun websites
 
 I learn best by doing, I dont know what else to put here. 
 
