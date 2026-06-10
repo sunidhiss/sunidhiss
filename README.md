@@ -1,5 +1,6 @@
 # Hi I'm Sunidhi👋
 
+[Personal Portfolio](https://portfolio-green-mu-icnumv0a3j.vercel.app/)
 ## About Me
 
 I’m a second-year AI & Data Science student
