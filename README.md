@@ -51,9 +51,3 @@ especially if it involves building something useful (or at least cool)
 okay now get off my account before you find any embarrassing repos
 
 </details>
-
-
-## Disclaimer
-
-The code works
-until it doesn’t
